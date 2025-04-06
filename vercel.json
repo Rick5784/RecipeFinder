@@ -1,5 +1,5 @@
 {
     "rewrites": [
-        {"source": "/Recipe_Finder.html", "destination": "/"}
+        {"source": "/RecipeFinder/Recipe_Finder.html", "destination": "/"}
     ]
 }
